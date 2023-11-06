@@ -17,7 +17,7 @@
 - integer.py reads the values in the config.json so all you need to do is change the config.json file
 
 ### **Run Instructions**
-- ```
+```
 python integer.py
 or 
 python3 integer.py
